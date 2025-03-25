@@ -1,0 +1,16 @@
+{
+  "name": "Sativanet",
+  "symbol": "SVN",
+  "description": "Sativanet (SVN) es un token de utilidad para el ecosistema del cannabis medicinal, combinando evidencia científica con inteligencia artificial para mejorar el acceso a información y educación.",
+  "image": "https://raw.githubusercontent.com/tobipato/satvn/main/futuristic_cannabis_logo_256x256.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/tobipato/satvn/main/futuristic_cannabis_logo_256x256.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}

@@ -11,6 +11,9 @@
       }
     ],
     "category": "image",
-    "creators": []
+    "creators": [ {
+    "address": "AhwcT3YGxfqcgMtL3pNRSkwNqYP6a6Z38wKPxuqiX13s",
+    "share": 100,
+    "verified": true
   }
-}
+]
